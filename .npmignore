@@ -1,0 +1,7 @@
+.vscode/
+coverage/
+.DS_Store
+.nyc_output
+sauce.json
+tsconfig.tsbuildinfo
+postcss.config.js
